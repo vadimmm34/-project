@@ -1,0 +1,7 @@
+D:\C# (Конструирование программ и языки программирования)\Laba1\bin\Debug\Laba1.exe.config
+D:\C# (Конструирование программ и языки программирования)\Laba1\bin\Debug\Laba1.exe
+D:\C# (Конструирование программ и языки программирования)\Laba1\bin\Debug\Laba1.pdb
+D:\C# (Конструирование программ и языки программирования)\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+D:\C# (Конструирование программ и языки программирования)\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\C# (Конструирование программ и языки программирования)\Laba1\obj\Debug\Laba1.exe
+D:\C# (Конструирование программ и языки программирования)\Laba1\obj\Debug\Laba1.pdb
