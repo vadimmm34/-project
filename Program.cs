@@ -37,6 +37,8 @@ class Program
         }
 
         Console.WriteLine("Максимальное целое число: " + maxChislo);
+ Console.Write("Проверка изменения файла ");
+
     }
 }
 

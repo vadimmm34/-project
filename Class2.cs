@@ -16,5 +16,6 @@ class Class2
 
         Console.WriteLine(result);
         Console.ReadKey();
+        Console.Write("Проверка изменения файла ");
     }
 }
